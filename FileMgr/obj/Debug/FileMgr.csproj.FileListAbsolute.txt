@@ -1,0 +1,35 @@
+C:\su\temp\VSHelp\FileMgr\bin\Debug\FileMgr.pdb
+C:\su\temp\VSHelp\FileMgr\obj\Debug\FileMgr.pdb
+C:\su\temp\VSHelp\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+C:\su\temp\VSHelp\FileMgr\bin\Debug\FileMgr.dll.config
+C:\su\temp\VSHelp\FileMgr\bin\Debug\FileMgr.dll
+C:\su\temp\VSHelp\FileMgr\obj\Debug\FileMgr.dll
+E:\Sem 1\SMA\Final Project 2\FileMgr\bin\Debug\FileMgr.exe.config
+E:\Sem 1\SMA\Final Project 2\FileMgr\bin\Debug\FileMgr.exe
+E:\Sem 1\SMA\Final Project 2\FileMgr\bin\Debug\FileMgr.pdb
+E:\Sem 1\SMA\Final Project 2\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+E:\Sem 1\SMA\Final Project 2\FileMgr\obj\Debug\FileMgr.exe
+E:\Sem 1\SMA\Final Project 2\FileMgr\obj\Debug\FileMgr.pdb
+C:\Users\Mamta\Desktop\Final Project 2\FileMgr\bin\Debug\FileMgr.exe.config
+C:\Users\Mamta\Desktop\Final Project 2\FileMgr\obj\Debug\FileMgr.exe
+C:\Users\Mamta\Desktop\Final Project 2\FileMgr\obj\Debug\FileMgr.pdb
+C:\Users\Mamta\Desktop\Final Project 2\FileMgr\bin\Debug\FileMgr.exe
+C:\Users\Mamta\Desktop\Final Project 2\FileMgr\bin\Debug\FileMgr.pdb
+C:\Users\Mamta\Desktop\Final Project 2\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+C:\Users\Mamta\Desktop\CodeAnalyzer\FileMgr\bin\Debug\FileMgr.exe.config
+C:\Users\Mamta\Desktop\CodeAnalyzer\FileMgr\bin\Debug\FileMgr.exe
+C:\Users\Mamta\Desktop\CodeAnalyzer\FileMgr\bin\Debug\FileMgr.pdb
+C:\Users\Mamta\Desktop\CodeAnalyzer\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+C:\Users\Mamta\Desktop\CodeAnalyzer\FileMgr\obj\Debug\FileMgr.exe
+C:\Users\Mamta\Desktop\CodeAnalyzer\FileMgr\obj\Debug\FileMgr.pdb
+C:\Users\Dhaval\Desktop\CodeAnalyzer\FileMgr\bin\Debug\FileMgr.exe.config
+C:\Users\Dhaval\Desktop\CodeAnalyzer\FileMgr\bin\Debug\FileMgr.exe
+C:\Users\Dhaval\Desktop\CodeAnalyzer\FileMgr\bin\Debug\FileMgr.pdb
+C:\Users\Dhaval\Desktop\CodeAnalyzer\FileMgr\obj\Debug\FileMgr.exe
+C:\Users\Dhaval\Desktop\CodeAnalyzer\FileMgr\obj\Debug\FileMgr.pdb
+C:\Work drive\visual studio projects\CodeAnalyzer\FileMgr\bin\Debug\FileMgr.exe.config
+C:\Work drive\visual studio projects\CodeAnalyzer\FileMgr\bin\Debug\FileMgr.exe
+C:\Work drive\visual studio projects\CodeAnalyzer\FileMgr\bin\Debug\FileMgr.pdb
+C:\Work drive\visual studio projects\CodeAnalyzer\FileMgr\obj\Debug\FileMgr.csprojResolveAssemblyReference.cache
+C:\Work drive\visual studio projects\CodeAnalyzer\FileMgr\obj\Debug\FileMgr.exe
+C:\Work drive\visual studio projects\CodeAnalyzer\FileMgr\obj\Debug\FileMgr.pdb
